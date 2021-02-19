@@ -1,1 +1,1 @@
-# networking
+This project is just a sample project to record the basics of various tech 
